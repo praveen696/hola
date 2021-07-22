@@ -11,7 +11,8 @@ Next, navigate in your terminal to the directory you cloned this, and spin up th
 Open `Docker Terminal`
 
 Run the following commands
-
+`cp .env.example .env`
+`php artisan config:clear`
 `php artisan migrate`
 `php artisan db:seed`
 
