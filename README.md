@@ -19,6 +19,8 @@ Run test coverage
 
 `./vendor/bin/phpunit --coverage-html tests/coverage`
 
+Coverate report can be view as html from `/test/coverage/index.html`
+
 Admin user
 `admin`
 `adminpassword`
